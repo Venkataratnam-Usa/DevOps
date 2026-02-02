@@ -1,1 +1,1 @@
-Adding new line This is log.txt
+File has been updated please merge PR
